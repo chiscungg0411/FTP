@@ -1,0 +1,15 @@
+D:\FTP\FTPServer\FTPServer\bin\Debug\FTPServer.exe.config
+D:\FTP\FTPServer\FTPServer\bin\Debug\FTPServer.exe
+D:\FTP\FTPServer\FTPServer\bin\Debug\FTPServer.pdb
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.csproj.AssemblyReference.cache
+D:\FTP\FTPServer\FTPServer\obj\Debug\MainWindow.baml
+D:\FTP\FTPServer\FTPServer\obj\Debug\MainWindow.g.cs
+D:\FTP\FTPServer\FTPServer\obj\Debug\App.g.cs
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer_MarkupCompile.cache
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.g.resources
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.Properties.Resources.resources
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.csproj.GenerateResource.cache
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.csproj.CoreCompileInputs.cache
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.exe
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.pdb
+D:\FTP\FTPServer\FTPServer\obj\Debug\FTPServer.exe.config

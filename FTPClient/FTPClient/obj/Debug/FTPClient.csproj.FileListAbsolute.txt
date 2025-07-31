@@ -1,0 +1,15 @@
+D:\FTP\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+D:\FTP\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+D:\FTP\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.csproj.AssemblyReference.cache
+D:\FTP\FTPClient\FTPClient\obj\Debug\MainWindow.baml
+D:\FTP\FTPClient\FTPClient\obj\Debug\MainWindow.g.cs
+D:\FTP\FTPClient\FTPClient\obj\Debug\App.g.cs
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient_MarkupCompile.cache
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.g.resources
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.Properties.Resources.resources
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.csproj.GenerateResource.cache
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.csproj.CoreCompileInputs.cache
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.exe
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.pdb
+D:\FTP\FTPClient\FTPClient\obj\Debug\FTPClient.exe.config
