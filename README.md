@@ -105,5 +105,5 @@ Rất hoan nghênh các đóng góp! Vui lòng làm theo các bước sau:
 
 Nếu có câu hỏi hoặc phản hồi, vui lòng liên hệ:
 
--   **Email**: Địa chỉ email của bạn (Tùy chọn)
+-   **Email**: ccuong0411@gmail.com
 -   **GitHub**: [chiscungg0411](https://github.com/chiscungg0411)
