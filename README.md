@@ -95,10 +95,10 @@ Rất hoan nghênh các đóng góp! Vui lòng làm theo các bước sau:
 ## Hình ảnh từ dự án
 
 ### Server
-<img width="644" height="333" alt="image" src="https://github.com/user-attachments/assets/3c8ef1ed-105d-40ab-98a2-5f1dda05dee1" />
+<img width="944" height="633" alt="image" src="https://github.com/user-attachments/assets/70c5989f-65e0-4ffd-b2bd-279603798cf1" />
 
 ### Client
-<img width="544" height="336" alt="image" src="https://github.com/user-attachments/assets/6d50d9f9-34bd-4965-b0c1-c327fa359e8f" />
+<img width="844" height="636" alt="image" src="https://github.com/user-attachments/assets/3fb8c87f-0e6f-4718-b486-ae8e896a03e8" />
 
 
 ## Liên Hệ
