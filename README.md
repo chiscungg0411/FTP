@@ -92,9 +92,14 @@ Rất hoan nghênh các đóng góp! Vui lòng làm theo các bước sau:
 4.  Đẩy nhánh của bạn lên GitHub.
 5.  Gửi một pull request.
 
-## Giấy Phép
+## Hình ảnh từ dự án
 
-Dự án này được cấp phép theo [Giấy phép MIT](https://github.com/chiscungg0411/FTP/blob/main/LICENSE).
+### Server
+<img width="644" height="333" alt="image" src="https://github.com/user-attachments/assets/3c8ef1ed-105d-40ab-98a2-5f1dda05dee1" />
+
+### Client
+<img width="544" height="336" alt="image" src="https://github.com/user-attachments/assets/6d50d9f9-34bd-4965-b0c1-c327fa359e8f" />
+
 
 ## Liên Hệ
 
